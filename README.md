@@ -7,11 +7,11 @@
 ## Codam Coding College
 
 ### Progress at Codam
-[![cpost's 42 stats](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/stats?cursusId=21&coalitionId=58)](https://github.com/JaeSeoKim/badge42)
+[![cpost's 42 stats](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/stats?cursusId=21&coalitionId=58)]
 
 #### Finished projects
-(In order of finishing)
-[![cpost's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2365116)](https://github.com/JaeSeoKim/badge42)
+(In order of finishing)__
+Libft:[![cpost's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2365116)](https://github.com/The-Friendly-Ghost/Libft)__
 [![cpost's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2401882)](https://github.com/JaeSeoKim/badge42)
 [![cpost's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2419710)](https://github.com/JaeSeoKim/badge42)
 [![cpost's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2401883)](https://github.com/JaeSeoKim/badge42)
