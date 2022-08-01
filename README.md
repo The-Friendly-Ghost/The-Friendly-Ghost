@@ -8,7 +8,6 @@
 
 ## [Codam Coding College](https://codam.nl/) 
 
-### About Codam Coding College
 Currently I'm a student a Codam Coding College in Amsterdam (part of [the 42 network](https://42.fr/en/network-42/)). Codam is a programming school that does things a bit different from regular education in two major ways: 
 #### There are no teachers. 
 The only way of learning is by sharing knowledge with other students (peer-to-peer learning) and finding resources online. In this way Codam prepares students for the job market where there are also no teachers, but only colleagues and online resources.
