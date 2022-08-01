@@ -17,18 +17,26 @@ Everyone has their own pace and interests. That's why there is no one-size-fits-
 ![cpost's 42 stats](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/stats?cursusId=21&coalitionId=58)
 
 ### Finished projects
-In order of finishing<br />
-Libft:[![cpost's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2365116)](https://github.com/The-Friendly-Ghost/Libft)<br />
+In order of finishing<br /><br />
 
-Get_next_line: [![cpost's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2401882)](https://github.com/The-Friendly-Ghost/Get_next_line)<br />
+**Libft**<br />
+[![cpost's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2365116)](https://github.com/The-Friendly-Ghost/Libft)<br />
 
-Ft_printf: [![cpost's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2419710)](https://github.com/The-Friendly-Ghost/Printf)<br />
+**Get_next_line**<br />
+[![cpost's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2401882)](https://github.com/The-Friendly-Ghost/Get_next_line)<br />
 
-Born2beroot:[![cpost's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2401883)](https://github.com/The-Friendly-Ghost)<br />
+**Ft_printf**<br />
+[![cpost's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2419710)](https://github.com/The-Friendly-Ghost/Printf)<br />
 
-Minitalk: [![cpost's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2519866)](https://github.com/The-Friendly-Ghost/Minitalk)<br />
+**Born2beroot**<br />
+[![cpost's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2401883)](https://github.com/The-Friendly-Ghost)<br />
 
-So_Long: [![cpost's 42 so_long Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2577107)](https://github.com/The-Friendly-Ghost/So_long)<br />
+**Minitalk**<br />
+[![cpost's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2519866)](https://github.com/The-Friendly-Ghost/Minitalk)<br />
 
-Push_Swap: [![cpost's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2488117)](https://github.com/The-Friendly-Ghost/Push_swap)<br />
+**So_Long**<br />
+[![cpost's 42 so_long Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2577107)](https://github.com/The-Friendly-Ghost/So_long)<br />
+
+**Push_Swap**<br />
+[![cpost's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2488117)](https://github.com/The-Friendly-Ghost/Push_swap)<br />
 
