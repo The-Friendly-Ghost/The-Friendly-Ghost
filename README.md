@@ -1,13 +1,13 @@
 # Hi I'm Casper
 
 - 🔭 I’m currently a student at Codam Coding college where I'm improving my programming skills in C and C++
-- 🌱 Webdesigner at https://postwebdesign.nl/
-- 📫 How to reach me: github-contact@capo.mozmail.com
+- 🌱 Webdesigner at [Post Webdesign](https://postwebdesign.nl/)
+- 📫 How to reach me: [github-contact@capo.mozmail.com](mailto:github-contact@capo.mozmail.com)
 
-## Codam Coding College
+## [Codam Coding College](https://codam.nl/) 
 
 ### About Codam Coding College
-Currently I'm a student a Codam Coding College in Amsterdam. Codam is a programming school that does things a bit different from regular education in two major ways: 
+Currently I'm a student a Codam Coding College in Amsterdam (part of [the 42 network](https://42.fr/en/network-42/)). Codam is a programming school that does things a bit different from regular education in two major ways: 
 #### There are no teachers. 
 The only way of learning is by sharing knowledge with other students (peer-to-peer learning) and finding resources online. In this way Codam prepares students for the job market where there are also no teachers, but only colleagues and online resources.
 #### Personalized curriculum
