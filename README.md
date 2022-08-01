@@ -1,8 +1,10 @@
 # Hi I'm Casper
 
-- 🔭 I’m currently a student at Codam Coding college where I'm improving my programming skills in C and C++
-- 🌱 Webdesigner at [Post Webdesign](https://postwebdesign.nl/)
-- 📫 How to reach me: [github-contact@capo.mozmail.com](mailto:github-contact@capo.mozmail.com)
+🔭 I’m currently a student at Codam Coding college where I'm improving my programming skills in C and C++<br />
+🧑‍💼 Self-employed webdesigner at [Post Webdesign](https://postwebdesign.nl/)<br />
+💪 Experienced in designing fully-responsive websites and webshops<br />
+📫 How to reach me: [github-contact@capo.mozmail.com](mailto:github-contact@capo.mozmail.com)<br />
+💡 Fun fact: I graduated as a phisiotherapist before I changed my career path to IT<br />
 
 ## [Codam Coding College](https://codam.nl/) 
 
