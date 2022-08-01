@@ -16,8 +16,7 @@ Everyone has their own pace and interests. That's why there is no one-size-fits-
 ### Progress at Codam
 ![cpost's 42 stats](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/stats?cursusId=21&coalitionId=58)
 
-### Finished projects
-In order of finishing<br /><br />
+### Finished projects (in order of finishing)
 
 **Libft**<br />
 [![cpost's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2365116)](https://github.com/The-Friendly-Ghost/Libft)<br />
