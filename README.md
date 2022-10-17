@@ -40,3 +40,9 @@ Everyone has their own pace and interests. That's why there is no one-size-fits-
 **Push_Swap**<br />
 [![cpost's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2488117)](https://github.com/The-Friendly-Ghost/Push_swap)<br />
 
+**Philosophers**<br />
+[![cpost's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2734681)](https://github.com/The-Friendly-Ghost/Philosophers)<br />
+
+**Minishell**<br />
+[![cpost's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2734682)](https://github.com/The-Friendly-Ghost/Minishell)<br />
+
