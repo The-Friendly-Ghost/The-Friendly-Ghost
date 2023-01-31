@@ -49,6 +49,3 @@ Everyone has their own pace and interests. That's why there is no one-size-fits-
 **NetPractice**<br />
 [![cpost's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2891377)]<br />
 
-**Cub3d**<br />
-[![cpost's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl6apjwgk011109mge7abbxpc/project/2891378)](https://github.com/The-Friendly-Ghost/Cub3d)<br />
-
