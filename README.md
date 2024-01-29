@@ -1,6 +1,6 @@
 # Hi I'm Casper
 
-🔭 &nbsp;&nbsp; I’m currently a **student at Codam Coding college** where I'm improving my programming skills in C and C++<br /><br />
+🔭 &nbsp;&nbsp; I’m currently a **student at Codam Coding college** where I'm improving my programming skills in C, C++, Typescript, Git, Bash and more!<br /><br />
 👨‍💻 &nbsp;&nbsp; **Self-employed webdesigner** at [Post Webdesign](https://postwebdesign.nl/)<br /><br />
 💪 &nbsp;&nbsp; **Experienced in designing fully-responsive websites** and webshops for small to medium-sized businesses<br /><br />
 📫 &nbsp;&nbsp; E-mail me at [github-contact@capo.mozmail.com](mailto:github-contact@capo.mozmail.com)<br /><br />
